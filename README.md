@@ -4,9 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Maycom
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
-
+# Estudante de sistemas de informação-UTFPR-CT
 **Background in:** Python, Machine Learning.
 
 ## Projetos:
