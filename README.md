@@ -5,6 +5,9 @@
 </p>
 
 # Estudante de sistemas de informação-UTFPR-CT
+
+Como estudante na Área de tecnologia, sempre busco me informar sobre as novas tecnologias, recentemente tive o primeiro contato com machine learning e data science, e desde então começei a desenvolver meu primeiro projeto de data science, que logo postarei aqui 
+
 **Background in:** Python, Machine Learning.
 
 ## Projetos:
